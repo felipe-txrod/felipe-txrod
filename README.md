@@ -1,16 +1,20 @@
-### i'm lived
+# 🌟 Bem-vindo ao meu GitHub! 🌟
 
-<!--
-**felipe-txrod/felipe-txrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou um estudante de **Sistemas de Informação** na **USP**, tenho 21 anos e uma grande paixão pela área de **dados**.
+---
 
-Here are some ideas to get you started:
+## 📌 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Nome:** Felipe Teixeira Rodrigues
+- **Idade:** 21 anos
+- **Curso:** Sistemas de Informação na USP
+- **Interesses:** Engenharia de dados e Ciência de dados
+
+---
+
+## 🚀 Habilidades
+
+### Linguagens de Programação
+- **Python:** É meu foco de estudo nas linguagens de programação, especialmente para engenharia de dados e desenvolvimento de scripts automatizados.
+- **Java:** Conhecimento básico em Java, com experiência em pequenos projetos e estudos.
+- **C:** Conhecimento básico em C, utilizado principalmente para entender conceitos fundamentais de programação e estrutura de dados.
