@@ -1,20 +1,64 @@
-# 🌟 Bem-vindo ao meu GitHub! 🌟
+# 👋 Welcome to my GitHub!
 
-Olá! Sou um estudante de **Sistemas de Informação** na **USP**, tenho 21 anos e uma grande paixão pela área de **dados**.
----
+Hi! I'm **Felipe Teixeira Rodrigues**, an Information Systems student at the **University of São Paulo (USP)** and a **Data Analyst** passionate about Data Engineering, Data Analytics, and building data-driven solutions.
 
-## 📌 Sobre mim
-
-- **Nome:** Felipe Teixeira Rodrigues
-- **Idade:** 21 anos
-- **Curso:** Sistemas de Informação na USP
-- **Interesses:** Engenharia de dados e Ciência de dados
+I'm constantly learning and developing projects involving data pipelines, automation, databases, and cloud technologies, with the goal of becoming a Data Engineer.
 
 ---
 
-## 🚀 Habilidades
+## 📌 About Me
 
-### Linguagens de Programação
-- **Python:** É meu foco de estudo nas linguagens de programação, especialmente para engenharia de dados e desenvolvimento de scripts automatizados.
-- **Java:** Conhecimento básico em Java, com experiência em pequenos projetos e estudos.
-- **C:** Conhecimento básico em C, utilizado principalmente para entender conceitos fundamentais de programação e estrutura de dados.
+- 🎓 Information Systems student at the **University of São Paulo (USP)**
+- 💼 Currently working as a **Data Analyst**
+- 📊 Interested in **Data Engineering**, **Data Analytics**, and **Big Data**
+- 🌱 Currently learning **PySpark**, **Databricks**, **Cloud Platforms**, and modern data architectures
+
+---
+
+## 🚀 Technical Skills
+
+### Programming Languages
+
+- **Python** – Data processing, automation, scripting, APIs, and ETL/ELT pipelines.
+- **SQL** – Query optimization, data modeling, and relational databases.
+- **Java** – Basic knowledge acquired through academic projects.
+- **C** – Basic understanding of programming fundamentals and data structures.
+
+### Data Engineering
+
+- ETL/ELT Pipelines
+- Apache Airflow
+- Data Modeling
+- Data Processing
+- REST API Integration
+- Data Visualization
+
+### Databases
+
+- MySQL
+- MongoDB
+
+### Tools & Technologies
+
+- Git & GitHub
+- Linux
+- Docker
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+## 🎯 Current Focus
+
+I'm expanding my knowledge in:
+
+- Data Engineering
+- Apache Spark & PySpark
+- Databricks
+- Data Lakes & Lakehouse Architecture
+- Cloud Computing (GCP, AWS, Azure)
+- Distributed Data Processing
+- Modern Data Platforms
+
+---
